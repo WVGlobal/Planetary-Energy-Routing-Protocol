@@ -63,5 +63,12 @@ The traditional "take-make-waste" human economic model is mathematically impossi
 We are seeking logistics experts, robotics engineers, waste management advocates, and supply chain developers to help design the open-source product tracking data schemas and model local reclamation network algorithms.
 
 ## Call for Collaboration
-We are currently seeking software engineers, systems administrators, physicists, climate advocates, and AI safety researchers to help refine this architectural framework and build a baseline Python simulation of the energy routing protocol. 
+We are actively seeking a decentralized, global network of contributors to transition this conceptual architecture into working open-source simulations. Specifically, we need:
+- **Software Engineers & Data Architects**: To build baseline Python simulations for the federated multi-agent routing and design the JSON data schemas.
+- **Materials Scientists & Chemical Engineers**: To help compile the open-source index of alternative, carbon-negative material formulas.
+- **Atmospheric Physicists & Marine Biologists**: To model the real-time sensor telemetry and safety thresholds for geoengineering interventions.
+- **Agronomists, GIS Experts & Logistics Specialists**: To develop the land-use transition models and design closed-loop product tracking protocols.
+
+If you want to help build a safe, public protocol for humanity, please open an Issue, start a Discussion, or submit a Pull Request directly to this repository. Let's build the framework for coexistence together.
+
 
