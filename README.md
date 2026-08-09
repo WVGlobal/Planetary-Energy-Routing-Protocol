@@ -1,4 +1,4 @@
-# Planetary Energy Routing Protocol (PERP)
+## Pillar 1: Autonomous Grid Management System (AGMS)
 
 An open-source conceptual framework for a federated AI mesh to safely optimize and route decentralized planetary energy networks.
 
