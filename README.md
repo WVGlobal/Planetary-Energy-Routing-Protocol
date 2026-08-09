@@ -13,6 +13,10 @@ The Planetary Energy Routing Protocol (PERP) is a grassroots architecture design
    - Key 2: The collective consensus vote of the federated AI mesh nodes.
    - Key 3: An immutable, hardcoded open-source core directive guaranteeing baseline survival power to all human communities.
 4. **Air-Gapped Physical Overrides**: Every local substation retains fully mechanical, manual breakers that cannot be accessed or overridden by remote digital signals, ensuring communities always retain ultimate control over their local power.
+
+## Current Goals
+We are seeking power systems engineers, cybersecurity experts, grid operators, and software developers to help design the initial multi-agent communication protocols and build a basic Python simulation of the real-time load-balancing algorithm.
+
 ## Pillar 2: Algorithmic Re-Engineering of Materials (AREM)
 
 ## Overview
