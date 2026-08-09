@@ -49,6 +49,18 @@ Humanity's current food production systems are highly inefficient, consuming mas
 
 ## Current Goals
 We are seeking agronomists, synthetic biologists, GIS mapping experts, and robotics engineers to help build the land-use transition models and design the drone telemetry protocols.
+## Pillar 5: Automated Circular Economy (ACE)
+
+## Overview
+The traditional "take-make-waste" human economic model is mathematically impossible to sustain inside a finite planetary ecosystem. The Automated Circular Economy (ACE) framework enforces an intelligent, closed-loop manufacturing and logistics system where every physical item is tracked, reclaimed, and completely recycled, neutralizing the need for destructive raw material extraction.
+
+## Core Mechanisms
+1. **Closed-Loop Logistics Tracking**: Mandates a public, open data protocol where all manufactured consumer goods must be digitally tagged and designed for 100% automated disassembly. The system tracks products through their lifecycle, ensuring components are routed back to regional reclamation centres upon expiration.
+2. **Autonomous Landfill Mining**: Deploys advanced, robotic sorting networks managed by the local AI nodes to process and mine existing landfills. These systems extract raw metals, rare earths, glass, and polymers, reintroducing them into the supply chain and neutralizing the need for new mining operations.
+3. **Dynamic Material Reallocation**: An algorithmic marketplace balances global manufacturing demands with recycled material availability. It instantly routes reclaimed plastics, copper, and minerals to the nearest zero-carbon production facilities, eliminating shipping waste.
+
+## Current Goals
+We are seeking logistics experts, robotics engineers, waste management advocates, and supply chain developers to help design the open-source product tracking data schemas and model local reclamation network algorithms.
 
 ## Call for Collaboration
 We are currently seeking software engineers, systems administrators, physicists, climate advocates, and AI safety researchers to help refine this architectural framework and build a baseline Python simulation of the energy routing protocol. 
