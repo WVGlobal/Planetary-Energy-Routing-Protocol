@@ -71,8 +71,10 @@ We are actively seeking a decentralized, global network of contributors to trans
 - **Software Engineers & Data Architects**: To build baseline Python simulations for the federated multi-agent routing and design the JSON data schemas.
 - **Materials Scientists & Chemical Engineers**: To help compile the open-source index of alternative, carbon-negative material formulas.
 - **Atmospheric Physicists & Marine Biologists**: To model the real-time sensor telemetry and safety thresholds for geoengineering interventions.
-- **Agronomists, GIS Experts & Logistics Specialists**: To develop the land-use transition models and design closed-loop product tracking protocols.
+- **Synthetic Biologists, Agronomists & GIS Experts**: To develop the lab-grown protein transition models and design ecological land-use maps.
+- **Logistics Specialists & Robotics Engineers**: To design closed-loop product tracking protocols and automated sorting algorithms.
 
 If you want to help build a safe, public protocol for humanity, please open an Issue, start a Discussion, or submit a Pull Request directly to this repository. Let's build the framework for coexistence together.
+
 
 
