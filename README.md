@@ -13,6 +13,30 @@ The Planetary Energy Routing Protocol (PERP) is a grassroots architecture design
    - Key 2: The collective consensus vote of the federated AI mesh nodes.
    - Key 3: An immutable, hardcoded open-source core directive guaranteeing baseline survival power to all human communities.
 4. **Air-Gapped Physical Overrides**: Every local substation retains fully mechanical, manual breakers that cannot be accessed or overridden by remote digital signals, ensuring communities always retain ultimate control over their local power.
+## Pillar 2: Algorithmic Re-Engineering of Materials (AREM)
+
+## Overview
+Traditional heavy industries (cement, steel, and plastics) generate massive global carbon emissions due to inefficient, historical manufacturing habits. The Algorithmic Re-Engineering of Materials (AREM) framework replaces traditional chemistry with open-source machine learning simulations to rapidly discover, test, and deploy carbon-negative building blocks for human infrastructure.
+
+## Core Mechanisms
+1. **Open-Source Molecular Databases**: Establishes a public, un-patentable database of machine-learning-discovered chemical formulas for carbon-negative concrete alternatives, bio-synthetic polymers, and zero-emission structural steel. 
+2. **Carbon-Capture Infrastructure Integration**: Integrates directly with the PERP energy grid. Buildings and factories are mapped as physical carbon sinks, utilizing structural materials that chemically trap and store carbon dioxide within their foundations over their entire lifecycle.
+3. **Automated Supply Chain Auditing**: An AI-driven ledger tracks raw material sourcing globally. It uses predictive modeling to identify supply chain bottlenecks and immediately flags high-emission manufacturing nodes, routing procurement to localized, low-carbon alternatives.
+
+## Current Goals
+We are seeking materials scientists, chemical engineers, and software developers to help compile a public index of open-source alternative material formulas and map out the data schemas required to track structural carbon sequestration.
+## Pillar 3: Atmospheric Rebalancing (Geoengineering)
+
+## Overview
+While humanity addresses the slow transition to zero-carbon energy and materials, compounding climate feedback loops require immediate, active intervention to stabilize global temperatures. The Atmospheric Rebalancing framework deploys a decentralized, data-driven sensor network to safely manage localized Solar Radiation Management (SRM) and ocean-based carbon absorption, removing national political friction from atmospheric cooling.
+
+## Core Mechanisms
+1. **Algorithmic Solar Radiation Management (SRM)**: Coordinates the controlled, localized release of reflective aerosols into the upper atmosphere. The AI mesh triggers these releases strictly based on real-time global temperature anomalies, temporarily deflecting sunlight to create an immediate thermal buffer.
+2. **Targeted Ocean Iron Fertilization**: Monitors and directs the stimulation of phytoplankton blooms in isolated oceanic zones. This accelerates nature's carbon dioxide absorption loop, drawing gigatons of CO2 down into the deep ocean.
+3. **Decentralized Marine Sensor Networks**: Deploys thousands of autonomous marine and atmospheric drone sensors. These sensors feed continuous, live data back to the federated AI mesh to constantly monitor marine ecosystem health, ensuring interventions automatically halt if localized ecological stress is detected.
+
+## Current Goals
+We are seeking atmospheric physicists, marine biologists, data engineers, and climate scientists to map out the real-time sensor telemetry schemas and help design the algorithmic safety thresholds for atmospheric intervention.
 
 ## Call for Collaboration
 We are currently seeking software engineers, systems administrators, physicists, climate advocates, and AI safety researchers to help refine this architectural framework and build a baseline Python simulation of the energy routing protocol. 
