@@ -26,7 +26,7 @@ To build a public, non‑corporate protocol that enables global climate resilien
 ## Current Focus
 We’re building the first **Python simulation** for the federated AI mesh (AGMS).  
 If you’re a software engineer, data architect, or systems designer, this is the best entry point.
-
+👉 [Join the AGMS Simulation Thread](https://github.com/WVGlobal/Planetary-Energy-Routing-Protocol/issues/1)
 ## Community Values
 - Transparency over secrecy  
 - Collaboration over competition  
