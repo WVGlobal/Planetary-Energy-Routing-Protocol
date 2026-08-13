@@ -1,6 +1,6 @@
 # 🕹️ PERP Architecture Simulations
 
-This directory contains the baseline Python prototypes for the Planetary Energy Routing Protocol (PERP). These scripts demonstrate how our decentralized protocols balance physical energy, digital data workloads, and global land use.
+This directory contains the baseline Python prototypes for the Planetary Energy Routing Protocol (PERP). These scripts demonstrate how our decentralized protocols balance physical energy, digital data workloads, global land use, and industrial manufacturing streams.
 
 ## 🚀 How to Run the Simulations
 
@@ -20,7 +20,15 @@ Calculates localized optimization models to transition livestock land into nativ
 python simulations/palo_land_allocator.py
 ```
 
-## 🛠️ Contributor Roadmap for v0.3
-We are actively looking for developers to help expand these prototypes:
-* **Pillar 1:** Introduce random network lag and node dropouts to test mesh resiliency.
-* **Pillar 4:** Integrate real GIS coordinate data structures using the models in the `/schemas` folder.
+### 3. Automated Circular Economy Marketplace (Pillar 5)
+Models automated landfill mining via robotic extraction and uses an algorithmic marketplace to distribute recycled copper and polymers to regional zero-carbon factories.
+```bash
+python simulations/ace_circular_marketplace.py
+```
+
+## 🧪 Run Automated Integration Tests
+Verify that all core scripts execute perfectly across the mesh network layout:
+```bash
+python simulations/test_suite.py
+```
+
