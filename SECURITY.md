@@ -17,7 +17,7 @@ We currently only support security updates for our main baseline branch.
 
 Publicly exposing vulnerabilities before a patch can be developed risks weaponizing decentralized grid components. Instead, please report all security concerns directly to the core maintainers.
 
-*   **Reporting Email:** security@widerviewglobal.com
+*   **Reporting Email:** widerview.web@gmail.com
 *   **Response Window:** The core maintainers will acknowledge your report within 48 hours and provide a regular status update until an open-source patch is pushed.
 
 ### What We Are Actively Auditing:
