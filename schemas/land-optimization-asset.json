@@ -1,0 +1,20 @@
+{
+  "zone_id": "palo-grid-square-7721",
+  "regional_jurisdiction": "Midwest_US_Sector",
+  "total_area_hectares": 12500.0,
+  "current_use_allocation": {
+    "traditional_livestock_farming_pct": 65.0,
+    "synthetic_protein_labs_pct": 5.0,
+    "restored_native_forest_pct": 30.0
+  },
+  "transition_metrics": {
+    "nutritional_protein_output_tonnes_year": 4200.0,
+    "methane_emissions_co2e_tonnes_year": 18400.0,
+    "soil_biodiversity_health_score": 0.42
+  },
+  "drone_reforestation_telemetry": {
+    "native_saplings_planted_count": 450000,
+    "satellite_monitored_canopy_growth_pct": 12.8,
+    "calculated_carbon_sequestration_tonnes_year": 2250.0
+  }
+}
