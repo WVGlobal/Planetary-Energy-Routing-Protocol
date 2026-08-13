@@ -1,0 +1,24 @@
+{
+  "node_telemetry_id": "geo-drone-pacific-082",
+  "timestamp": "2026-08-13T04:33:00Z",
+  "coordinates": {
+    "latitude": -15.4211,
+    "longitude": -140.1245,
+    "altitude_meters": 18500.0
+  },
+  "atmospheric_sensors": {
+    "srm_aerosol_optical_depth": 0.12,
+    "stratospheric_sulfur_parts_per_billion": 4.2,
+    "solar_reflectance_percentage": 31.4
+  },
+  "marine_sensors": {
+    "ocean_surface_ph": 8.05,
+    "phytoplankton_density_index": 1.45,
+    "dissolved_oxygen_mg_per_liter": 6.8
+  },
+  "algorithmic_safety_flags": {
+    "acidification_buffer_violated": false,
+    "hypoxia_anoxia_risk_detected": false,
+    "automated_intervention_halt_active": false
+  }
+}
