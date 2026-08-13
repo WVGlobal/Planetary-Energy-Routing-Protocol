@@ -1,0 +1,19 @@
+{
+  "product_global_uid": "ace-asset-prod-998122-x",
+  "manufacturer_node_id": "arem-factory-steel-04",
+  "material_composition_hashes": [
+    "sha256-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "sha256-9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08"
+  ],
+  "hardware_disassembly_protocol": {
+    "requires_automated_robotic_stripping": true,
+    "fastener_type": "magnetic-latch-release",
+    "estimated_disassembly_time_seconds": 45
+  },
+  "lifecycle_telemetry": {
+    "manufacture_date": "2026-01-10T08:00:00Z",
+    "estimated_lifespan_months": 60,
+    "current_status": "in-use",
+    "target_reclamation_center_id": "reclaim-hub-oceania-south"
+  }
+}
