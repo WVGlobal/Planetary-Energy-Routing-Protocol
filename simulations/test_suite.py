@@ -24,11 +24,14 @@ if __name__ == "__main__":
     print("🌍 PERP Simulation Stack: Automated Integrity Audit")
     print("==============================================\n")
     
-    scripts_to_test = [
-        "perp_mesh_simulation.py",
-        "palo_land_allocator.py",
-        "ace_circular_marketplace.py"
+        scripts_to_test = [
+        "perp_mesh_simulation.py",     # Pillar 1
+        "material_reengineering.py",   # Pillar 2
+        "atmospheric_rebalancing.py",  # Pillar 3
+        "palo_land_allocator.py",      # Pillar 4
+        "ace_circular_marketplace.py"  # Pillar 5
     ]
+
     
     all_passed = True
     for script in scripts_to_test:
