@@ -1,0 +1,29 @@
+{
+  "$schema": "https://json-schema.org",
+  "title": "PERPNodeTelemetry",
+  "type": "object",
+  "required": ["node_id", "timestamp", "generation_mw", "demand_mw", "virtual_compute_capacity_pflops", "tri_key_lock_status"],
+  "properties": {
+    "node_id": { "type": "string", "format": "uuid" },
+    "timestamp": { "type": "string", "format": "date-time" },
+    "generation_mw": {
+      "type": "object",
+      "required": ["terrestrial_renewable", "space_based_solar"],
+      "properties": {
+        "terrestrial_renewable": { "type": "number", "minimum": 0 },
+        "space_based_solar": { "type": "number", "minimum": 0 }
+      }
+    },
+    "demand_mw": { "type": "number", "minimum": 0 },
+    "virtual_compute_capacity_pflops": { "type": "number", "minimum": 0 },
+    "tri_key_lock_status": {
+      "type": "object",
+      "required": ["key_1_human_coalition", "key_2_ai_mesh", "key_3_immutable_directive"],
+      "properties": {
+        "key_1_human_coalition": { "type": "boolean" },
+        "key_2_ai_mesh": { "type": "boolean" },
+        "key_3_immutable_directive": { "type": "boolean" }
+      }
+    }
+  }
+}
