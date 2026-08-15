@@ -4,7 +4,7 @@ An open-source conceptual framework for a federated AI mesh to safely optimize a
 
 ## Overview
 The Planetary Energy Routing Protocol (PERP) is a grassroots architecture designed to balance global energy supply and demand in real time without requiring a centralized corporate or government monopoly. By treating global climate stabilization as a system-wide optimization problem, PERP aims to connect emerging Space-Based Solar Power (SBSP) arrays and local terrestrial microgrids into a single, self-balancing energy pool.
-
+👉 [Click here to test our live, interactive Space Laser Grid Simulation!](https://codepen.io/editor/WVGlobal/pen/01a0028a-3999-7451-9ac5-251dcc0ee1de)(https://codepen.io/editor/WVGlobal/pen/01a0028a-3999-7451-9ac5-251dcc0ee1de)
 ## Core Pillars
 1. **Federated Agentic Mesh**: Competing national aerospace entities and private startups operate independent local AI nodes. These nodes communicate peer-to-peer using high-frequency space lasers to balance global load distribution without sharing proprietary military or corporate data.
 2. **Virtual Grid Balancing**: Bypasses physical trans-continental cable limitations by dynamically shifting massive digital computing workloads across global data centers via the internet to match regional renewable generation peaks.
