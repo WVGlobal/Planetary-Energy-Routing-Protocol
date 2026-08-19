@@ -79,7 +79,6 @@ The structural objective of planetary resource coordination is to insulate and s
 We are seeking community organizers, policy analysts, local grid operators, and privacy-focused software developers to help design the data structures for localized veto overrides and refine the open schemas for neighborhood-level resilience tracking.
 
 ## Call for Collaboration
-## Call for Collaboration
 
 We are actively seeking a decentralized, global network of contributors to transition this conceptual architecture into working open-source simulations. Specifically, we need:
 
