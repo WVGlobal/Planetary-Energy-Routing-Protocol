@@ -65,17 +65,17 @@ The traditional "take-make-waste" human economic model is mathematically impossi
 
 ## Current Goals
 We are seeking logistics experts, robotics engineers, waste management advocates, and supply chain developers to help design the open-source product tracking data schemas and model local reclamation network algorithms.
-### Pillar 6: Local Sovereignty & Community Resilience (LSCR)
+## Pillar 6: Local Sovereignty & Community Resilience (LSCR)
 
-#### Overview
+## Overview
 The structural objective of planetary resource coordination is to insulate and sustain the foundational rhythms of local human society. The protocol is engineered to handle macroeconomic and technical calculations asynchronously in the background, allowing regional populations to maintain their standard, uninterrupted baseline of daily community life. This framework establishes the immutable open standards required to keep technology serving as a passive, non-intrusive utility—ensuring final operational authority and cultural continuity always remain entirely with the local municipality.
 
-#### Core Mechanisms
+## Core Mechanisms
 *   **The Overriding Local Veto:** A structural logic rule embedded across the entire protocol stack. Global load-balancing or land-reallocation recommendations are completely non-binding. If a local community grid operator or regional administrative network rejects a mesh proposal, the AI system is forced to dynamically calculate resource routing around that sovereign zone.
 *   **Encrypted Telemetry Isolation:** Protects public and private privacy at the network layer. Local nodes communicate with the wider federated mesh using strict cryptographic isolation protocols. The global network only receives anonymous macro metrics for energy and material outputs, making it impossible for the mesh to track localized data footprints, individual habits, or regional enterprise records.
 *   **The Neighborhood Resilience Toolkit:** Providing open data schemas that support local ownership, regional public health, and decentralized resource equity. It allows communities to autonomously catalog and manage their own off-grid baseline infrastructure—such as independent water tables, localized emergency medical supplies, and municipal backup assets—ensuring continuity even during wider network anomalies.
 
-#### Current Goals
+## Current Goals
 We are seeking community organizers, policy analysts, local grid operators, and privacy-focused software developers to help design the data structures for localized veto overrides and refine the open schemas for neighborhood-level resilience tracking.
 
 ## Call for Collaboration
