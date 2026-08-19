@@ -79,12 +79,16 @@ The structural objective of planetary resource coordination is to insulate and s
 We are seeking community organizers, policy analysts, local grid operators, and privacy-focused software developers to help design the data structures for localized veto overrides and refine the open schemas for neighborhood-level resilience tracking.
 
 ## Call for Collaboration
+## Call for Collaboration
+
 We are actively seeking a decentralized, global network of contributors to transition this conceptual architecture into working open-source simulations. Specifically, we need:
-- **Software Engineers & Data Architects**: To build baseline Python simulations for the federated multi-agent routing and design the JSON data schemas.
-- **Materials Scientists & Chemical Engineers**: To help compile the open-source index of alternative, carbon-negative material formulas.
-- **Atmospheric Physicists & Marine Biologists**: To model the real-time sensor telemetry and safety thresholds for geoengineering interventions.
-- **Synthetic Biologists, Agronomists & GIS Experts**: To develop the lab-grown protein transition models and design ecological land-use maps.
-- **Logistics Specialists & Robotics Engineers**: To design closed-loop product tracking protocols and automated sorting algorithms.
+
+*   **Software Engineers & Data Architects**: To build baseline Python simulations for the federated multi-agent routing and design the JSON data schemas.
+*   **Materials Scientists & Chemical Engineers**: To help compile the open-source index of alternative, carbon-negative material formulas.
+*   **Atmospheric Physicists & Marine Biologists**: To model the real-time sensor telemetry and safety thresholds for geoengineering interventions.
+*   **Synthetic Biologists, Agronomists & GIS Experts**: To develop the lab-grown protein transition models and design ecological land-use maps.
+*   **Logistics Specialists & Robotics Engineers**: To design closed-loop product tracking protocols and automated sorting algorithms.
+*   **Policy Analysts & Privacy Developers**: To design the data structures for localized veto overrides and refine the open schemas for neighborhood-level resilience tracking.
 
 If you want to help build a safe, public protocol for humanity, please open an Issue, start a Discussion, or submit a Pull Request directly to this repository. Let's build the framework for coexistence together.
 
